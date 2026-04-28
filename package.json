@@ -1,0 +1,7 @@
+{
+  "name": "netlify-edge-relay",
+  "version": "1.0.0",
+  "description": "Netlify Edge Runtime Relay",
+  "private": true,
+  "license": "MIT"
+}
